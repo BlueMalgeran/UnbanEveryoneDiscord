@@ -1,7 +1,7 @@
 const { Client } = require('discord.js');
 const client = new Client();
 const prefix = '!';
-const ownerID = 'your id'
+const ownerID = 'your id';
 
 client.on('ready', () => console.log('Ready!'));
 
