@@ -1,2 +1,2 @@
 # UnbanEveryoneDiscord
-Unbans everyone from a specific server
+Unbans everyone in a specific server
